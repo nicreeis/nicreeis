@@ -3,9 +3,9 @@
 
 <div style="display: inline_block">
   <a href="https://beacons.ai/nicreeis">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicreeis&theme=omni&count_private=true&show_icons=true&include_all_commits=true&layout=compact"/></a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicreeis&theme=omni&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide=contribs"/></a>
   <a href="https://beacons.ai/nicreeis">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicreeis&layout=compact&langs_count=16&theme=omni"/></a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicreeis&layout=compact&theme=omni&count_private=true&include_all_commits=true"/></a>
 </div>
 
 <div style="display: inline_block"><br>
