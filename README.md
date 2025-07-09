@@ -1,10 +1,10 @@
 <h2 align="center">Hi 👋 Welcome to my page! </h2>
-<h4 align="center">My name is Nicole and I'm currently working as a Data Analyst at Umbrella GRC ☂️</h4>
+<h4 align="center">My name is Nicole and I'm currently working as a CRM Analyst at Nação Digital ☂️</h4>
 
 <br>
 
-  - Languages: Python, SQL, MQL, DAX<br>
-  - Cloud: Azure Service Fabric, Oracle<br>
+  - Languages: Python, SQL, HTML, MQL, DAX<br>
+  - Cloud: Azure Service, Microsoft Fabric, Oracle<br>
   - Data: SQL Developer, MySQL, Data Modeler, MongoDB<br>
   - Programming: Visual Studio<br>
   - Design: Figma, Photoshop<br>
